@@ -2,7 +2,7 @@
 
 Simple jeu d'échec en Python
 -------------------
-Auteur: Mahmoud Saidi
+Author: Mahmoud Saidi
 E-Mail: mahmoud.saidi@outlook.fr
 -------------------
 
